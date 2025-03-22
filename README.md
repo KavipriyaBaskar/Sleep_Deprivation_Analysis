@@ -107,7 +107,7 @@ The primary goal of this analysis is to investigate the relationship between **s
 
 ---
 
-# **Abount Dataset**
+# **About Dataset**
 ## **Overview:**
 - **Total Records (Participants):** 60
 - **Total Features (Variables):** 14
