@@ -188,35 +188,6 @@ The dataset provides critical information linking sleep deprivation to cognitive
 
 # **Dashboards**
 
-The following dashboards provide visual insights into the sleep deprivation dataset, covering various aspects such as participant demographics, sleep quality, physical activity, caffeine intake, and stress levels.
-
-1. **Overview**  
-![Overview](Resources/Overview.png)
-
-2. **Participants Analysis**  
-![Participants Analysis](Resources/Participants%20Analysis.png)
-
-3. **Analysis by Sleep Quality Level**  
-![Analysis by Sleep Quality Level](Resources/Analysis%20by%20Sleep%20Quality%20Level.png)
-
-4. **Analysis by Sleep Deprivation Level**  
-![Analysis by Sleep Deprivation Level](Resources/Analysis%20by%20Sleep%20Deprivation%20Level.png)
-
-5. **Analysis by Physical Activity Level**  
-![Analysis by Physical Activity Level](Resources/Analysis%20by%20Physical%20Activity%20Level.png)
-
-6. **Analysis by Caffeine Intake**  
-![Analysis by Caffeine Intake](Resources/Analysis%20by%20Caffeine%20Intake.png)
-
-7. **Stress Level Analysis**  
-![Stress Level Analysis](Resources/Stress%20Level%20Analysis.png)
-
-# **Dashboards**
-
-The following dashboards provide detailed visual insights into the sleep deprivation dataset, covering key dimensions such as demographics, sleep quality, physical activity, caffeine intake, and stress levels.
-
----
-
 ## **1. Overview**  
 ![Overview](Resources/Overview.png)
 
