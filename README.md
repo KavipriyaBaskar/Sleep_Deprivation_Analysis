@@ -210,3 +210,117 @@ The following dashboards provide visual insights into the sleep deprivation data
 
 7. **Stress Level Analysis**  
 ![Stress Level Analysis](Resources/Stress%20Level%20Analysis.png)
+
+# **Dashboards**
+
+The following dashboards provide detailed visual insights into the sleep deprivation dataset, covering key dimensions such as demographics, sleep quality, physical activity, caffeine intake, and stress levels.
+
+---
+
+## **1. Overview**  
+![Overview](Resources/Overview.png)
+
+- **Description:**  
+  - This dashboard provides a high-level summary of the dataset, including the total number of participants, gender distribution, average sleep hours, and key performance metrics.  
+  - **Key Metrics:**  
+    - Total Participants  
+    - Average Sleep Duration  
+    - Average Reaction Time and Stress Levels  
+  - **Insight:**  
+    - Indicates overall sleep deprivation trends and demographic composition.
+
+---
+
+## **2. Participants Analysis**  
+![Participants Analysis](Resources/Participants%20Analysis.png)
+
+- **Description:**  
+  - This dashboard focuses on participant demographics, including age distribution, gender breakdown, and employment status.  
+  - **Key Metrics:**  
+    - Age Group Distribution  
+    - Gender Ratio  
+    - Employment and Lifestyle Factors  
+  - **Insight:**  
+    - Reveals how age and lifestyle impact sleep patterns and overall health.
+
+---
+
+## **3. Analysis by Sleep Quality Level**  
+![Analysis by Sleep Quality Level](Resources/Analysis%20by%20Sleep%20Quality%20Level.png)
+
+- **Description:**  
+  - Examines sleep quality across different groups, categorizing participants as having **Poor**, **Moderate**, or **Good** sleep quality.  
+  - **Key Metrics:**  
+    - Sleep Quality Scores  
+    - Impact on Daytime Sleepiness  
+    - Cognitive Performance (Reaction Time)  
+  - **Insight:**  
+    - Shows how better sleep quality correlates with improved cognitive performance and emotional regulation.
+
+---
+
+## **4. Analysis by Sleep Deprivation Level**  
+![Analysis by Sleep Deprivation Level](Resources/Analysis%20by%20Sleep%20Deprivation%20Level.png)
+
+- **Description:**  
+  - This dashboard categorizes participants based on sleep deprivation levels (**Severe**, **Moderate**, and **Minimal**) and measures its impact on cognitive and emotional performance.  
+  - **Key Metrics:**  
+    - Sleep Duration Categories  
+    - Reaction Time and N-Back Accuracy  
+    - Daytime Sleepiness Scale  
+  - **Insight:**  
+    - Highlights how severe sleep deprivation leads to cognitive impairment and slower reaction times.
+
+---
+
+## **5. Analysis by Physical Activity Level**  
+![Analysis by Physical Activity Level](Resources/Analysis%20by%20Physical%20Activity%20Level.png)
+
+- **Description:**  
+  - Evaluates the relationship between physical activity levels (**Low**, **Moderate**, and **High**) and sleep quality, BMI, and stress levels.  
+  - **Key Metrics:**  
+    - Physical Activity Scores  
+    - BMI (Body Mass Index)  
+    - Sleep Duration and Stress Levels  
+  - **Insight:**  
+    - Suggests that higher physical activity is linked to better sleep quality and lower stress.
+
+---
+
+## **6. Analysis by Caffeine Intake**  
+![Analysis by Caffeine Intake](Resources/Analysis%20by%20Caffeine%20Intake.png)
+
+- **Description:**  
+  - Analyzes how varying caffeine consumption levels (**Low**, **Moderate**, **High**) affect cognitive performance and sleep duration.  
+  - **Key Metrics:**  
+    - Caffeine Intake (Cups per Day)  
+    - Reaction Time on PVT (Psychomotor Vigilance Task)  
+    - Sleep Duration and Quality  
+  - **Insight:**  
+    - Highlights the short-term cognitive boost from caffeine but diminishing returns with high consumption.
+
+---
+
+## **7. Stress Level Analysis**  
+![Stress Level Analysis](Resources/Stress%20Level%20Analysis.png)
+
+- **Description:**  
+  - Explores how stress levels correlate with sleep quality, sleep deprivation, and lifestyle habits.  
+  - **Key Metrics:**  
+    - Perceived Stress Scale (PSS) Scores  
+    - Impact on Sleep Quality and Daytime Sleepiness  
+    - Relationship with BMI and Caffeine Intake  
+  - **Insight:**  
+    - Shows that higher stress levels significantly disrupt sleep quality and overall well-being.
+
+---
+
+## **Summary of Insights:**
+
+- **Sleep Quality:** Strongly linked to cognitive performance and emotional regulation.  
+- **Sleep Deprivation:** Severe deprivation impairs reaction times and increases daytime sleepiness.  
+- **Physical Activity:** Higher activity improves sleep and reduces stress.  
+- **Caffeine Intake:** Boosts performance in moderation but affects sleep with overconsumption.  
+- **Stress Levels:** High stress correlates with poor sleep and higher BMI.
+
+These dashboards offer actionable insights for industries focusing on **healthcare**, **workforce management**, and **wellness** programs.  
